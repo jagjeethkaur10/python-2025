@@ -1,0 +1,25 @@
+Identifiers 
+ -- can contain
+ 
+  -->letters(A-Z,a-z)
+  -->digits(0,1)
+  -->underscore(_)
+    
+and should start with 
+ -->letters
+ -->underscore
+cannot start with
+-->digit(no)
+-->keyword (35)
+ 
+ they are case sensitive
+   -->eg: Num, NUM, Num
+
+these rules are common to all like:
+  -->variables
+  -->modules
+  -->classes
+  -->functions
+  -->objects
+  -->methods  etc 
+  
