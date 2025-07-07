@@ -5,12 +5,10 @@ _name = "jassi" #valid ,follows all the rules
 print ="_name"
 print="jassi"
  
- #variables
-value = 10
-value = 4.5
-value = "jassi"
-
-#we use id to get the memory location of the particular value which we are finding 
+ 
 
 
-print(id(value))
+
+
+
+
