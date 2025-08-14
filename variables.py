@@ -64,3 +64,18 @@ print(version+version_new)
 
 #we can make this work by using comma 
 print(msg,version_new)
+value_name="jassi"
+value_num=10
+value_rating=12.5
+print(value_name)
+print(id(value_rating))
+print(type(value_num))
+x="jassi "
+y="preeti "
+z="deepu "
+q="3 "
+print(x+y+z+q)
+print(x,y,q)
+x=y=z=13
+q=12
+print(x+z+q)
